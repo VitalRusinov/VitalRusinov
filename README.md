@@ -42,15 +42,6 @@ For the last 1,5 year I have been actively studying frontend and developing my s
     </picture>
   </a>
 </p>
-<p align="left">
-  <a href="https://t.me/vitalrusinov" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/telegram-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/telegram.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/telegram.svg" width="32" height="32" />
-    </picture>
-  </a>
-</p>
 
                     
 <b>Top Repositories</b>
