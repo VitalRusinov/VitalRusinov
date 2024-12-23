@@ -1,13 +1,12 @@
-Привет 👋 Меня зовут Виталий Русинов.
-=====================================
+Hi 👋 My name is Vitalii Rusinov
+================================
+Frontend-developer
+------------------
 
-Frontend-разработчик
---------------------
+For the last 1,5 year I have been actively studying frontend and developing my skills in this area, I completed training at Hexlet!
 
-Последние полтора года я активно изучаю фронтенд и развиваю свои навыки в этой области, прошел обучение в Hexlet!
-
-* 🌍 Я живу в Чернушке.
-* ✉️ Вы можете связаться со мной по адресу [rvi90@bk.r](mailto:rvi90@bk.ru)[](mailto:rvi90@bk.ru)
-* 🧠 Я изучаю N
-* 🤝 Я открыт для сотрудничества по F
-* ⚡  В свободное время увлекаюсь сноубордом (сертифицированный инструктор) и настольными играми.
+* 🌍  I'm based in Perm region
+* ✉️  You can contact me by email [rvi90@bk.r](mailto:rvi90@bk.ru)
+      and also in telegram [@VitalRusinov](https://t.me/VitalRusinov)
+* 🤝  I'm open to collaborating on Frontend
+* 🏂🏻  In my free time I enjoy snowboarding (certified instructor) and 🎲 board games.
