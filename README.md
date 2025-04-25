@@ -4,7 +4,7 @@ My name is Vitalii Rusinov
 Frontend-developer
 ------------------
 
-For the last 1,5 year I have been actively studying frontend and developing my skills in this area, I completed training at [Hexlet!](https://ru.hexlet.io/)
+For the last 2 years I have been actively studying frontend and developing my skills in this area, I completed training at [Hexlet!](https://ru.hexlet.io/)
 
 * 🌍  I'm based in Perm region, Chernushka
 * ✉️  You can contact me by email [rvi90@bk.ru](mailto:rvi90@bk.ru)  
