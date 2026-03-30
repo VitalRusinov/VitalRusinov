@@ -1,15 +1,19 @@
-Hi there 👋   
-My name is Vitalii Rusinov
+Привет👋   
+Меня зовут Русинов Виталий
 ================================
-Frontend-developer
+Frontend-разработчик.
 ------------------
 
-Currently studying Python at [Hexlet!](https://ru.hexlet.io/)
+Год коммерческого опыта единственным фронтенд-разработчиком на проекте.
+Сам выстраиваю архитектуру (FSD), пишу новые модули, занимаюсь рефакторингом и оптимизацией.
 
-* 🎯 Based in Perm region.
-* 📫 [rvi90@bk.ru](mailto:rvi90@bk.ru) | [@VitalRusinov](https://t.me/VitalRusinov)
-* 🏂 Snowboard instructor, board games enjoyer.
-  
+Сейчас изучаю Python и бэкенд-разработку в [Hexlet!](https://ru.hexlet.io/). 🐍
+
+* 🎯 Город: Пермский край, Чернушка
+* 📫 Почта: [rvi90@bk.ru](mailto:rvi90@bk.ru)
+* 💬 Telegram: [@VitalRusinov](https://t.me/VitalRusinov)
+* 🏂 Увлечения: инструктор по сноуборду, настольные игры
+
 ### Skills 
 
 <p align="left">
