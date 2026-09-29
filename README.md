@@ -1,12 +1,16 @@
-Привет👋   
+Привет 👋
 Меня зовут Русинов Виталий
-================================
-Frontend-разработчик.
-------------------
+==========================
 
-Выстраиваю архитектуру (FSD), пишу новые модули, занимаюсь рефакторингом и оптимизацией.
+## Full-stack разработчик.
 
-Сейчас изучаю Python и бэкенд-разработку в [Hexlet!](https://ru.hexlet.io/). 🐍
+Разрабатываю frontend и backend части приложений: проектирую архитектуру, пишу новые модули, занимаюсь рефакторингом и оптимизацией.
+
+### Стек
+
+**Frontend:** TypeScript, JavaScript, React, Redux Toolkit, RTK Query, Vite, HTML5, CSS3, SCSS
+
+**Backend:** Python, Django, Flask, REST API, PostgreSQL
 
 * 🎯 Город: Пермский край, Чернушка
 * 📫 Почта: [rvi90@bk.ru](mailto:rvi90@bk.ru)
@@ -15,29 +19,37 @@ Frontend-разработчик.
 
 ### Skills
 
+**Frontend**
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,redux,vite,html,css,sass,tailwind,bootstrap,materialui,jest,python,postgres,linux,git,figma" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,redux,vite,html,css,sass,jest" />
 </p>
-                    
-### Socials
+
+**Backend**
+
 <p align="left">
-  <a href="https://www.github.com/VitalRusinov" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=python,django,flask,postgres" />
+</p>
+
+**Tools**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,linux,figma" />
+</p>
+
+
+### Socials
+
+<p align="left">
+  <a href="https://github.com/VitalRusinov" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
     </picture>
   </a>
+
+  <a href="https://t.me/VitalRusinov" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="32" height="32" alt="Telegram" />
+  </a>
 </p>
-
-                    
-<b>Top Repositories</b>
-<div width="100%" align="center">
-  <a href="https://github.com/VitalRusinov/online-store" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=VitalRusinov&repo=online-store&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-  <a href="https://github.com/VitalRusinov/Chat" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=VitalRusinov&repo=Chat&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-</div>
-
-<div width="100%" align="center">
-  <a href="https://github.com/VitalRusinov/RSS-Reader" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=VitalRusinov&repo=RSS-Reader&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-  <a href="https://github.com/VitalRusinov/Quiz" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=VitalRusinov&repo=Quiz&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-</div>
